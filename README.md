@@ -1,3 +1,3 @@
 # hello-world
 ## Ashit Kumar Singh
-### Electronics and Communication Engineering
+### Electronics and Communication 
